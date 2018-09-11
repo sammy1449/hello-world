@@ -1,2 +1,4 @@
 # hello-world
-Practice using GitHub using helloworld
+Hello,
+This is just meant for me to get used to using GitHub.
+
